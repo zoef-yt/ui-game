@@ -1,6 +1,6 @@
 <div align="center" >
 
-# UI Game
+# [UI Game](https://deploy-preview-27--ui-game.netlify.app/)
 
 Create, Alter UI as simple as a game.
 
@@ -22,225 +22,43 @@ To start using the components in your project, Copy-paste the stylesheet `<link>
 
 ---
 
-# Components in the UI Game Library
+# Components added in the this branch
 
--   [Alert](#Alert)
--   [Avatar](#Avatar)
--   [Badge](#badge)
--   [Button](#button)
--   [Card](#card)
--   [Image](#image)
--   [Input](#input)
--   [List](#list)
--   [Modal](#modal)
--   [Text Utilities](#text-utilities)
+-   [Grid](#Grid) 
+-   [Slider](#Slider)
+-   [Mobile Navigation](#Mobile_Navigation)
+
 
 ---
 
-## Alert
+## Grid
+12 layout grid
+![image](https://user-images.githubusercontent.com/67889207/162249187-6237de39-6d10-4788-a19c-b32e4afe3f75.png)
 
-Alerts are used to notify the user of an important event. They can be used to inform the user of an event, or to prompt the user to take an action.
+Grid with specific location horizontal
+![image](https://user-images.githubusercontent.com/67889207/162249288-1d7142f1-08bd-4e04-9867-5a5073cc82cd.png)
 
-### Error Alert
+### [check out code for Grid](https://deploy-preview-27--ui-game.netlify.app/pages/getting-started/getting-started.html#grid)
 
-<img src="./assets/readme/error-alert.png" style="border-radius:10px" max-width="650px"/>
+## Slider
+Normal slider Css only
+![image](https://user-images.githubusercontent.com/67889207/162249894-94eae0f6-8f85-4958-833e-f8dc580a9061.png)
 
-### Error Alert
+Disbaled Slider
+![image](https://user-images.githubusercontent.com/67889207/162249959-4f77f6a8-b0bf-409d-aef5-1102941109a7.png)
 
-<img src="./assets/readme/success-alert.png" style="border-radius:10px" max-width="650px"/>
 
-### Error Alert
+### [Check out code of slider](https://deploy-preview-27--ui-game.netlify.app/pages/getting-started/getting-started.html#slider)
 
-<img src="./assets/readme/warning-alert.png" style="border-radius:10px" max-width="650px"/>
+## Mobile Navigation
 
-### Error Alert
+![image](https://user-images.githubusercontent.com/67889207/162250271-ad1474f2-2325-4f6a-9593-5d6f90a0f4d9.png)
 
-<img src="./assets/readme/info-alert.png" style="border-radius:10px" max-width="650px"/>
+[Check out code for Mobile Navigation](https://deploy-preview-27--ui-game.netlify.app/pages/getting-started/getting-started.html#navigation)
 
-### [Checkout code for Alerts](https://ui-game.netlify.app/pages/getting-started/getting-started.html#alert)
-
----
-
-## Avatar
-
-Avatars are objects that represent the user's identity on screen.
-
-### Simple avatar
-
-<img src="./assets/readme/avatar1.png" style="border-radius:10px" max-width="650px"/>
-
-### Avatar with custom size
-
-<img src="./assets/readme/avatar2.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for avatar](https://ui-game.netlify.app/pages/getting-started/getting-started.html#avatar).
-
----
-
-## Badge
-
-Badges are used to show the certain status of that particular UI element.
-
-### Badge with a number.
-
-<img src="./assets/readme/badge-numbers.png" style="border-radius:10px" max-width="650px"/>
-
-### Badge with status.
-
-<img src="./assets/readme/badge-status..png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for badge](https://ui-game.netlify.app/pages/getting-started/getting-started.html#badge).
-
----
-
-## Button
-
-Buttons are objects that user's uses to interact with the application.
-
-### Primary button.
-
-<img src="./assets/readme/btn-primary.png" style="border-radius:10px" max-width="650px"/>
-
-### Secondary button.
-
-<img src="./assets/readme/btn-secondary.png" style="border-radius:10px" max-width="650px"/>
-
-### Danger button.
-
-<img src="./assets/readme/btn-danger.png" style="border-radius:10px" max-width="650px"/>
-
-### FAB(Floating Action Button) button.
-
-<img src="./assets/readme/btn-fab.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for button](https://ui-game.netlify.app/pages/getting-started/getting-started.html#button).
-
----
-
-## Card
-
-Cards are used to display content in a container.
-
-### Card with badge
-
-<img src="./assets/readme/card-badge.png" style="border-radius:10px" max-width="650px"/>
-
-### Card with dismiss
-
-<img src="./assets/readme/card-dismiss.png" style="border-radius:10px" max-width="650px"/>
-
-### Card with text overlay
-
-<img src="./assets/readme/card-text-overlay.png" style="border-radius:10px" max-width="650px"/>
-
-### Text only card
-
-<img src="./assets/readme/card-text-only.png" style="border-radius:10px" max-width="650px"/>
-
-### Horizontal card
-
-<img src="./assets/readme/card-horizontal.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for card](https://ui-game.netlify.app/pages/getting-started/getting-started.html#card).
-
----
-
-## Image
-
-Image can be used to display picture on the website.
-
-### Rounded square Image
-
-<img src="./assets/readme/img-rounded-corner.png" style="border-radius:10px" max-width="650px"/>
-
--   ### Circular Image
-
--   ### Responsive Image
-
-### [Check out code for images](https://ui-game.netlify.app/pages/getting-started/getting-started.html#image).
-
----
-
-## Input
-
-Input can be used to take input from your user.
-
-### Input
-
-<img src="./assets/readme/input-normal.png" style="border-radius:10px" max-width="650px"/>
-
-### Error input
-
-<img src="./assets/readme/input-error.png" style="border-radius:10px" max-width="650px"/>
-
-### Success input
-
-<img src="./assets/readme/input-success.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for input](https://ui-game.netlify.app/pages/getting-started/getting-started.html#input).
-
----
-
-## List
-
-List can be used to show a list of items.
-
-### List Group
-
-<img src="./assets/readme/list-group.png" style="border-radius:10px" max-width="650px"/>
-
-### Active list item
-
-<img src="./assets/readme/list-active.png" style="border-radius:10px" max-width="650px"/>
-
-### Disabled list item
-
-<img src="./assets/readme/list-disabled.png" style="border-radius:10px" max-width="650px"/>
-
-### Notification List
-
- <img src="./assets/readme/list-notification.png" style="border-radius:10px" max-width="650px"/>
-
-### List without border
-
-<img src="./assets/readme/list-without-border.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for list](https://ui-game.netlify.app/pages/getting-started/getting-started.html#list).
-
----
-
-## Modal
-
-Modal can be used for creating dialog boxes
-
-### Simple Modal
-
-<img src="./assets/readme/modal.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for modal](https://ui-game.netlify.app/pages/getting-started/getting-started.html#modal).
-
----
-
-## Text Utilities
-
-### Headings
-
-<img src="./assets/readme/text-heading.png" style="border-radius:10px" max-width="650px"/>
-
-### Small Text
-
-<img src="./assets/readme/text-small.png" style="border-radius:10px" max-width="650px"/>
-
-### Aligned Text
-
-<img src="./assets/readme/text-aligned.png" style="border-radius:10px" max-width="650px"/>
-
-### [Check out code for text utilities](https://ui-game.netlify.app/pages/getting-started/getting-started.html#text-utilities).
-
----
 
 <div align="center" >
 
-# Check out the [DOCUMENTATION](https://ui-game.netlify.app/pages/getting-started/getting-started.html) for more information.
+# Check out the [DOCUMENTATION](https://deploy-preview-27--ui-game.netlify.app/pages/getting-started/getting-started.html) for more information.
 
 </div>
